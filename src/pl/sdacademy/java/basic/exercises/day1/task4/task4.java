@@ -3,7 +3,7 @@ package pl.sdacademy.java.basic.exercises.day1.task4;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Task4 {
+public class task4 {
     private static final float BMI_MIN_RANGE = 18.5f;
     private static final float BMI_MAX_RANGE = 24.9f;
     private static Scanner scanner = new Scanner(System.in);
