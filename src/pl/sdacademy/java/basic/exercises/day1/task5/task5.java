@@ -2,7 +2,7 @@ package pl.sdacademy.java.basic.exercises.day1.task5;
 
 import java.util.Scanner;
 
-public class Task5 {
+public class task5 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
